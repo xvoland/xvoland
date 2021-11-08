@@ -1,10 +1,6 @@
 ### Hello, Everyone <a href="https://dotoca.net/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 This is the place where I'm :rofl: ✨
 
-📊 &nbsp;**This week I spent my time on**
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xvoland)](https://github.com/xvoland/github-readme-stats)
-
 - 🔭 I’m currently working on my pet projects
 - 👯 I’m currently focusing on Go and Swift
 - 💬 Ask me about nothing
@@ -47,3 +43,9 @@ This is the place where I'm :rofl: ✨
     <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
   </p>
 </details>
+
+📊 &nbsp;**This week I spent my time on**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xvoland)](https://github.com/xvoland/github-readme-stats)
+
+

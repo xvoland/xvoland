@@ -7,8 +7,6 @@ This is the place where I'm :rofl: ✨
 - 📫 How to reach me: @xvoland
 - 👨‍💻 &nbsp;Read more about my projects at [https://dotoca.net](https://www.dotoca.net.com/#portfolio)
 
-### Connect with me:
-
 🔗 &nbsp;**Connect with me**
 <p align="left">
   <a href="https://instagram.com/xvoland" target="blank"><img align="center" src="https://raw.githubusercontent.com/xvoland/xvoland/main/images/instagram.svg" alt="xVoLAnD" height="30" width="40" /></a>

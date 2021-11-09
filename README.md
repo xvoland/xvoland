@@ -9,16 +9,25 @@ This is the place where I'm :rofl: ✨
 
 ### Connect with me:
 
-[<img align="left" alt="xVoLAnD" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="xVoLAnD | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Vitalij Terescsuk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Vitalii Tereshchuk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+🔗 &nbsp;**Connect with me**
+<p align="left">
+  <a href="https://instagram.com/xvoland" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xVoLAnD" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vitalij-terescsuk-02b4689/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+</p>
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
   <p align="left">
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg
+
+
     <a href="https://php.net" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>
     <a href="https://golang.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>

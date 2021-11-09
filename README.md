@@ -55,7 +55,9 @@ https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark
 <details>
   <summary><b>📊 &nbsp;This week I spent my time on</b></summary>
   <br/>
-  [![xVoLAnD GitHub stats](https://github-readme-stats.vercel.app/api?username=xvoland)](https://github.com/xvoland/github-readme-stats)
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xvoland&show_icons=true&theme=radical&hide_border=true)
+
 </details>
 
 

@@ -1,9 +1,11 @@
 ### Hello, Everyone <a href="https://dotoca.net/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 This is the place where I'm :rofl: ✨
 
+
+- 🇬🇧🇺🇦🎥 I’m 🔞 with 30 years of experience
 - 🔭 I’m currently working on my pet projects
 - 👯 I’m currently focusing on Go and Swift
-- 💬 Ask me about nothing
+- 💬 Ask me if you have money
 - 📫 How to reach me: @xvoland
 - 👨‍💻 &nbsp;Read more about my projects at [https://dotoca.net](https://www.dotoca.net.com/#portfolio)
 

@@ -57,7 +57,7 @@ This is the place where I'm :rofl: ✨
   <summary><b>📊 &nbsp;This week I spent my time on</b></summary>
   <br/>
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xvoland&show_icons=true&theme=radical&hide_border=true)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xvoland&show_icons=true&theme=graywhite&hide_border=true)
 
 </details>
 

@@ -18,6 +18,7 @@ This is the place where I'm :rofl: ✨
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
+
   <p align="left">
     <a href="" target="_blank"> https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="Adobe After Effects" width="40" height="40"/> </a>
     <a href="https://apple.com" target="_blank"> https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/> </a>

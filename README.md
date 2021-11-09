@@ -51,8 +51,11 @@ https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark
   </p>
 </details>
 
-📊 &nbsp;**This week I spent my time on**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xvoland)](https://github.com/xvoland/github-readme-stats)
+<details>
+  <summary><b>📊 &nbsp;This week I spent my time on</b></summary>
+  <br/>
+  [![xVoLAnD GitHub stats](https://github-readme-stats.vercel.app/api?username=xvoland)](https://github.com/xvoland/github-readme-stats)
+</details>
 
 

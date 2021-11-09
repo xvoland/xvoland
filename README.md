@@ -1,4 +1,4 @@
-### Hello, Everyone <a href="https://dotoca.net/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hello, Everyone <a href="https://dotoca.net/"><img src="https://github.com/xvoland/xvoland/raw/main/images/giphy.gif" width="25px"></a>
 This is the place where I'm :rofl: ✨
 
 
@@ -19,15 +19,13 @@ This is the place where I'm :rofl: ✨
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
   <p align="left">
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg
-
-
+    <a href="" target="_blank"> https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="Adobe After Effects" width="40" height="40"/> </a>
+    <a href="https://apple.com" target="_blank"> https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/> </a>
+    <a href="https://arduino.cc" target="_blank"> https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/> </a>
+    <a href="https://docker.com" target="_blank"> https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
+    <a href="https://www.atlassian.com/" target="_blank"> https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/> </a>
+    <a href="https://linux.org" target="_blank"> https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
+    <a href="https://swift.com" target="_blank"> https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" alt="Swift" width="40" height="40"/> </a>
     <a href="https://php.net" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>
     <a href="https://golang.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>

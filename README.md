@@ -6,7 +6,7 @@ This is the place where I'm :rofl: ✨
 - 🔭 I’m currently working on my pet projects
 - 👯 I’m currently focusing on Go and Swift
 - 💬 Ask me if you have money
-- 📫 How to reach me: @xvoland
+- 📫 How to reach me: [@xvoland](https://www.dotoca.net.com)
 - 👨‍💻 &nbsp;Read more about my projects at [https://dotoca.net](https://www.dotoca.net.com/#portfolio)
 
 🔗 &nbsp;**Connect with me**

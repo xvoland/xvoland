@@ -6,7 +6,7 @@ This is the place where I'm :rofl: ✨
 - 🔭 I’m currently working on my pet projects
 - 👯 I’m currently focusing on Go and Swift
 - 💬 Ask me if you have money
-- 📫 How to reach me: [@xvoland](https://www.dotoca.net.com)
+- 📫 How to reach me: [@xvoland](https://www.dotoca.net)
 - 👨‍💻 &nbsp;Read more about my projects at [https://dotoca.net](https://www.dotoca.net.com/#portfolio)
 
 🔗 &nbsp;**Connect with me**
@@ -60,5 +60,4 @@ This is the place where I'm :rofl: ✨
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xvoland&show_icons=true&theme=graywhite&hide_border=true)
 
 </details>
-
 

@@ -18,6 +18,7 @@ This is the place where I'm :rofl: ✨
 </p>
 <p align="right"><img align="center" src="https://raw.githubusercontent.com/xvoland/xvoland/main/images/qr_github.png" alt="DOTOCA Ltd." height="50" width="50" /></a>
 </p>
+
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>

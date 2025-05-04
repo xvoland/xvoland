@@ -2,7 +2,7 @@
 This is the place where I'm :rofl: ✨
 
 
-- 🇬🇧🇺🇦🎥 I’m 🔞 with 30 years of experience
+- 🏴‍☠️ I’m 🔞 with 30 years of experience
 - 🔭 I’m currently working on my pet projects
 - 👯 I’m currently focusing on Go and Swift
 - 💬 Ask me if you have money
@@ -62,4 +62,3 @@ This is the place where I'm :rofl: ✨
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xvoland&show_icons=true&theme=graywhite&hide_border=true)
 
 </details>
-

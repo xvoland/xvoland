@@ -2,6 +2,7 @@
 This is the place where I'm :rofl: ✨
 
 
+- I am homeless
 - 🏴‍☠️ I’m 🔞 with 30 years of experience
 - 🔭 I’m currently working on my pet projects
 - 👯 I’m currently focusing on Go and Swift

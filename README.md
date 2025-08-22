@@ -4,10 +4,11 @@ This is the place where I'm :rofl: ✨
 
 - I am homeless
 - 🏴‍☠️ I’m 🔞 with 30 years of experience
-- 🔭 I’m currently working on my pet projects
+- 🔭 Working on pet projects 
 - 👯 I’m currently focusing on Go and Swift
-- 💬 Ask me if you have money
-- 📫 How to reach me: [@xvoland](https://www.dotoca.net)
+- 💬 Inquiries come with a price tag
+- 📫 Reach me at:  [@xvoland](https://www.dotoca.net)
+- 🎥 Watch and waste time here: [https://youtube.com/@xvoland](https://youtube.com/@xvoland)
 - 👨‍💻 &nbsp;Read more about my projects at [https://dotoca.net](https://www.dotoca.net.com/#portfolio)
 
 🔗 &nbsp;**Connect with me**

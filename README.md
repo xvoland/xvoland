@@ -9,7 +9,6 @@ This is the place where I'm :rofl: ✨
 - 💬 Inquiries come with a price tag
 - 📫 Reach me at:  [@xvoland](https://www.dotoca.net)
 - 🎥 Watch and waste time here: [https://youtube.com/@xvoland](https://youtube.com/@xvoland)
-- 📫 How to reach me: [@xvoland](https://www.dotoca.net)
 - 👨‍💻 &nbsp;Read more about my projects at [https://dotoca.net](https://www.dotoca.net.com/#portfolio)
 
 
